@@ -6,9 +6,9 @@ A real-time cryptocurrency price tracking application that provides friendly, co
 
 Here are a couple of screenshots showing the app in action:
 
-![Demo Image 1](images/image1.jpg)
+![Demo Image 1](images/image1.png)
 
-![Demo Image 2](images/image2.jpg)
+![Demo Image 2](images/image2.png)
 
 ## ✨ Features
 
