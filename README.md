@@ -2,13 +2,6 @@
 
 A real-time cryptocurrency price tracking application that provides friendly, conversational updates about your favorite cryptocurrencies. Built with Python and Streamlit, this app offers an intuitive interface for tracking crypto prices, market trends, and trading volumes.
 
-## Demo
-
-Here are a couple of screenshots showing the app in action:
-
-![Demo Image 1](images/image1.png)
-
-![Demo Image 2](images/image2.png)
 
 ## ✨ Features
 
